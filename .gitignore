@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+out/
+bin/
+
+# VS Code
+.vscode/
+
+# JavaFX
+javafx-sdk-*/
+
+# OS files
+.DS_Store
+Thumbs.db
